@@ -1,8 +1,8 @@
 // Only change code below this line
 var myFood = {
-    "vegetable": "carrot",
-    "fruit": "orange",
-    "drink": "water"
+    vegetable: "carrot",
+    fruit: "orange",
+    drink: "water"
 }
 function myFunction(myObj) {
     vegetableValue = myObj["vegetable"];

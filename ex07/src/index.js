@@ -5,12 +5,11 @@ function myFunction(propName) {
         "legs": 4,
         "tails": 1,
         "roar": "roar-roar"
-    }
+    };
     delete lion[propName];
     return lion;
 
     // Only change code above this line
 }
-
-myFunction("roar");
+console.log(myFunction("roar"));
 module.exports = myFunction;
