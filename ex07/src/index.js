@@ -11,5 +11,5 @@ function myFunction(propName) {
 
     // Only change code above this line
 }
-console.log(myFunction("roar"));
+myFunction("roar");
 module.exports = myFunction;

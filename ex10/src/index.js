@@ -15,6 +15,7 @@ function myFunction() {
             artist: "Jilly Boel",
             tittle: "Miano Pan",
             relese_year: 1937,
+            id: 100,
             format: {
                 1: "DVD",
                 2: "CD",
